@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Timelists/static/css/main.1a6b7706.chunk.css",
+    "main.js": "/Timelists/static/js/main.b733e9ac.chunk.js",
+    "main.js.map": "/Timelists/static/js/main.b733e9ac.chunk.js.map",
+    "runtime-main.js": "/Timelists/static/js/runtime-main.fda7612f.js",
+    "runtime-main.js.map": "/Timelists/static/js/runtime-main.fda7612f.js.map",
+    "static/css/2.bfc7b6d5.chunk.css": "/Timelists/static/css/2.bfc7b6d5.chunk.css",
+    "static/js/2.bf7d6d8d.chunk.js": "/Timelists/static/js/2.bf7d6d8d.chunk.js",
+    "static/js/2.bf7d6d8d.chunk.js.map": "/Timelists/static/js/2.bf7d6d8d.chunk.js.map",
+    "index.html": "/Timelists/index.html",
+    "static/css/2.bfc7b6d5.chunk.css.map": "/Timelists/static/css/2.bfc7b6d5.chunk.css.map",
+    "static/css/main.1a6b7706.chunk.css.map": "/Timelists/static/css/main.1a6b7706.chunk.css.map",
+    "static/js/2.bf7d6d8d.chunk.js.LICENSE.txt": "/Timelists/static/js/2.bf7d6d8d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Timelists/static/media/plus-circle.790effbe.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fda7612f.js",
+    "static/css/2.bfc7b6d5.chunk.css",
+    "static/js/2.bf7d6d8d.chunk.js",
+    "static/css/main.1a6b7706.chunk.css",
+    "static/js/main.b733e9ac.chunk.js"
+  ]
+}
